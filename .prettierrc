@@ -1,0 +1,6 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "trialingcoma": "all",
+  "printWidth": 80
+}
